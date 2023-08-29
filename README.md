@@ -1,0 +1,1 @@
+# Obsidian-Auto-Release
